@@ -1,6 +1,5 @@
 import React from 'react'
 import { Map, TileLayer, Marker, Popup} from "react-leaflet";
-import 'leaflet/dist/leaflet.css'
 
 import {Link} from 'react-router-dom'
 import '../styles/pages/orphanagesMap.css'

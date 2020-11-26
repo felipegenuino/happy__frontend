@@ -5,7 +5,7 @@ import React from 'react'
 
  import mapMarkerImg from '../assets/Local.svg' 
 
- import '../styles/Components/Sidebar.css'
+ import '../styles/Components/sidebar.css'
 
 
 export default function(){
